@@ -6,3 +6,6 @@
 #### É possivel visualizar os carros cadastrados da empresa.
 #### É possivel também cadastrar, alterar multas.
 #### Ao clicar em visualizar carro é possivel ver as multas que aquele carro tem e também altera-las.
+
+
+#### Existe a migration, mas caso não de certo, disponibilizei o banco de dados na pasta DataBase (MySQL)
