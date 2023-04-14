@@ -26,7 +26,7 @@
                 @php
                     date_default_timezone_set('America/Sao_Paulo');
                 @endphp
-                <input class="form-control" type="text" name="quitacao_hora" id="quitacao_hora" value="{{date('Y-m-d H:i')}}" ><br>
+                <input class="form-control" type="text" name="quitacao_hora" id="quitacao_hora" value="{{date('Y-m-d H:i')}}" hidden><br>
             @endif
             @if(isset($multa))
 
